@@ -1,2 +1,2 @@
 - role: Join Windows to AD
-  src: pyrotimux.DomainJoin
+  src: berkayozuygur.win_domain
