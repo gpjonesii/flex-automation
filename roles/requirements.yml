@@ -1,2 +1,2 @@
-- name: Join Windows to AD
+- name: windows_domain
   src: berkayozuygur.win_domain

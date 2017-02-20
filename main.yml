@@ -1,0 +1,4 @@
+- name: Flex Automation
+  hosts: all
+  roles:
+  - windows_domain
