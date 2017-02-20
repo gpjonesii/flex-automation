@@ -1,1 +1,2 @@
-src: pyrotimux.WinDomainJoin
+- role: Join Windows to AD
+  src: pyrotimux.WinDomainJoin
