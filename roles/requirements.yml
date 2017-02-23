@@ -1,2 +1,5 @@
 - name: windows_domain
   src: berkayozuygur.win_domain
+
+- name: windows_updates
+  src: deekayen.win_updates
